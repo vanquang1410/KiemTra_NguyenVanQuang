@@ -122,6 +122,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DangKyController.cs" />
+    <Compile Include="Controllers\DangNhapController.cs" />
     <Compile Include="Controllers\HocPhanController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SinhVienController.cs" />
@@ -194,6 +195,7 @@
     <Content Include="Views\SinhVien\Delete.cshtml" />
     <Content Include="Views\HocPhan\ListHocPhan.cshtml" />
     <Content Include="Views\DangKy\DangKy.cshtml" />
+    <Content Include="Views\DangNhap\ListDangNhap.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
